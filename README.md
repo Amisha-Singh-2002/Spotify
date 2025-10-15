@@ -3,7 +3,7 @@
 A modern Spotify-inspired music web app built using React.js and Tailwind CSS.
 This project replicates Spotify’s clean UI and interactive features, allowing users to explore music playlists, navigate through pages, and enjoy a smooth, responsive experience.
 
-🔗 Live Demo: spotify-iota-two-49.vercel.app
+🔗 Live Demo: (http://spotify-iota-two-49.vercel.app/)
 
 🚀 Features
 
