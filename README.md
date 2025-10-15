@@ -25,3 +25,22 @@ React.js	Frontend framework for building UI
 Tailwind CSS	Styling and responsive design
 React Router	Page navigation and routing
 React Hooks	State and side effect management
+
+
+💡 Learning Highlights
+
+Learned how to use React Hooks to manage complex UI states.
+
+Improved understanding of component reusability and context API.
+
+Gained experience in building a responsive UI using Tailwind CSS.
+
+Explored routing and dynamic rendering in React.
+
+✨ Future Improvements
+
+Add real-time music playback functionality.
+
+Connect with Spotify API for live data.
+
+Add dark/light mode toggle.
