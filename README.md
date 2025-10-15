@@ -1,16 +1,27 @@
-# React + Vite
+🎵 Spotify Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Spotify-inspired music web app built using React.js and Tailwind CSS.
+This project replicates Spotify’s clean UI and interactive features, allowing users to explore music playlists, navigate through pages, and enjoy a smooth, responsive experience.
 
-Currently, two official plugins are available:
+🔗 Live Demo: spotify-iota-two-49.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## React Compiler
+🎧 Spotify-like UI: Clean and responsive layout inspired by Spotify.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⚛️ React Hooks: Used useState, useRef, useEffect, and useContext for state management and component interaction.
 
-## Expanding the ESLint configuration
+🔁 Dynamic Rendering: Implemented mapping for playlists, songs, and components.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧭 Routing: Used React Router for seamless navigation between pages (like Home, Library, and Player).
+
+🎨 Tailwind CSS Styling: Modern and responsive design built efficiently with Tailwind CSS.
+
+📱 Fully Responsive: Works smoothly on desktop, tablet, and mobile screens.
+
+🛠️ Tech Stack
+Technology	Purpose
+React.js	Frontend framework for building UI
+Tailwind CSS	Styling and responsive design
+React Router	Page navigation and routing
+React Hooks	State and side effect management
